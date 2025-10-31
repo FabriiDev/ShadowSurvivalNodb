@@ -63,7 +63,7 @@ export default class MenuScene extends Phaser.Scene {
     });
 
     this.createButton(centerX, centerY + 190, "Créditos", () => {
-      window.open("https://tu-cv-link.com", "_blank");
+      window.open("https://fabrizio-arias.vercel.app/", "_blank");
     });
 
     // 🔇 Botones de sonido
