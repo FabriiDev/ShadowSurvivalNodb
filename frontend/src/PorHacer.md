@@ -1,0 +1,13 @@
+- [x] Agregar sondio de muerte del ojo
+- [x] Pasar la shop a un nuevo doc
+- [x] Cambiar spawn de tipo de enemigos
+- [x] No dejar comprar vida si esta full hp
+- [x] Sonido al recolectar coins, al comprar y cuando no se puede comprar
+- [x] Hacer algo cuando termina la oleda para que sea mas chill el cambio a la shop
+- [x] Mostrar vida en numeros en el HUD
+- [x] Agregar mas enemigos con diferentes ataques
+- [x] Sonidos de danio al pj y cuando tiene escudo
+- [] Agregar sprites y animaciones de las demas guns
+- [] Menu scene
+- [] Hacer scene para el game over
+- [] Sonidos para los nuevos pj y anumaciones de muerte (?
